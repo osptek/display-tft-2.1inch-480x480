@@ -1,0 +1,10 @@
+id: YDP210LT001-V1
+category: displays
+size: "2.1"
+panel: tft
+resolution: 480x480
+interface: [mipi, i2c]
+driver: ST77922
+touch: null
+outline: 66.7 x 66.7 mm
+active_area: 53.28 x 53.28 mm

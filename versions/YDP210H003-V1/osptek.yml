@@ -1,0 +1,10 @@
+id: YDP210H003-V1
+category: displays
+size: "2.1"
+panel: tft
+resolution: 480x480
+interface: [mipi]
+driver: ST7701
+touch: null
+outline: 56.18 x 59.71 mm
+active_area: 53.28 x 53.28 mm

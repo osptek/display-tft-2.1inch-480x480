@@ -1,0 +1,10 @@
+id: YDP210B002-V6
+category: displays
+size: "2.1"
+panel: tft
+resolution: 480x480
+interface: [spi, rgb]
+driver: ST7701S
+touch: null
+outline: 56.18 x 59.71 x 2.3 mm
+active_area: 53.28 x 53.28 mm
