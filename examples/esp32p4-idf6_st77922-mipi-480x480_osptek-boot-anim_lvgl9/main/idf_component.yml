@@ -1,9 +1,9 @@
 dependencies:
   ## Required IDF version
   idf:
-    version: '>=4.1.0'
-  espressif/esp_lvgl_port:
-    version: 2.7.*
+    version: '>=5.5.0'
+  espressif/esp_lvgl_adapter:
+    version: 0.7.*
     public: true
   lvgl/lvgl:
     version: 9.4.*
@@ -13,4 +13,7 @@ dependencies:
     public: true
   espressif/esp_lcd_touch_st7123:
     version: 1.0.*
+    public: true
+  espressif/esp_efc_codec:
+    version: 1.1.*
     public: true

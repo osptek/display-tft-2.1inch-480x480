@@ -14,8 +14,7 @@ They are reference code; adjust pins, backlight, touch and other settings to you
 | [`esp32p4-idf-st77922-mipi-lvgl-port-lvgl9`](./esp32p4-idf-st77922-mipi-lvgl-port-lvgl9/) | ESP32-P4 · ESP-IDF | ST77922 | MIPI | LVGL 9 / LVGL 9 |
 | [`esp32p4-idf5-st7701-mipi-lvgl9`](./esp32p4-idf5-st7701-mipi-lvgl9/) | ESP32-P4 · ESP-IDF 5 | ST7701 | MIPI | LVGL 9 / LVGL 9 |
 | [`esp32p4-idf6-st7701-mipi-lvgl9`](./esp32p4-idf6-st7701-mipi-lvgl9/) | ESP32-P4 · ESP-IDF 6 | ST7701 | MIPI | LVGL 9 / LVGL 9 |
-| [`esp32p4-idf6-st77922-mipi-lvgl-common-demo-te`](./esp32p4-idf6-st77922-mipi-lvgl-common-demo-te/) | ESP32-P4 · ESP-IDF 6 | ST77922 | MIPI | LVGL 综合演示、TE 防撕裂 / LVGL demo, TE tear-free |
-| [`esp32p4-idf6-st77922-mipi-lvgl-port-lvgl9`](./esp32p4-idf6-st77922-mipi-lvgl-port-lvgl9/) | ESP32-P4 · ESP-IDF 6 | ST77922 | MIPI | LVGL 9 / LVGL 9 |
+| [`esp32p4-idf6_st77922-mipi-480x480_osptek-boot-anim_lvgl9`](./esp32p4-idf6_st77922-mipi-480x480_osptek-boot-anim_lvgl9/) | ESP32-P4 · ESP-IDF 6 | ST77922 | MIPI | 开机动画+防撕裂+lvgl9 / Boot animation + anti-tearing + LVGL 9 |
 | [`esp32p4-st77922-mipi-bringup`](./esp32p4-st77922-mipi-bringup/) | ESP32-P4 | ST77922 | MIPI | 点屏测试 / bring-up test |
 | [`rpi5-panel-st7701-480x480`](./rpi5-panel-st7701-480x480/) | Raspberry Pi 5 | ST7701 | — | 面板驱动 / panel driver |
 | [`rpi5-panel-st77922-480x480`](./rpi5-panel-st77922-480x480/) | Raspberry Pi 5 | ST77922 | — | 面板驱动 / panel driver |
